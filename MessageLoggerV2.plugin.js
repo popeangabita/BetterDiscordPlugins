@@ -7,6 +7,7 @@
  * @source https://github.com/1Lighty/BetterDiscordPlugins/blob/master/Plugins/MessageLoggerV2/MessageLoggerV2.plugin.js
  * @updateUrl https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/master/Plugins/MessageLoggerV2/MessageLoggerV2.plugin.js
  */
+
 /*@cc_on
 @if (@_jscript)
   // Offer to self-install for clueless users that try to run this directly.
